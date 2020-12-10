@@ -1,4 +1,4 @@
-# HibernateJPA
+# JAVA Hibernate/JPA
 Desenvolvimento de uma camada de acesso a dados com JPA/Hibernate para um fragmento de um sistema de Imobiliária
 
 Nota: Para este laboratório deverá ser criado um projeto Maven com a ferramenta de
